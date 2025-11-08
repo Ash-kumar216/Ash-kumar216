@@ -52,8 +52,8 @@
 
 ###
 
-🎓 I’m currently pursuing **B.Tech in Computer Science Engineering** at the Chennai Institute of Technology.  
-💼 I’ve interned at the Indian Space Research Organisation (ISRO) and Edunet Foundation (React-Dev focus).  
+🎓 I’m currently pursuing **B.E in Computer Science Engineering** at the Chennai Institute of Technology.  
+💼 I’ve interned at the Indian Space Research Organisation (ISRO) and Edunet Foundation (Data Analytics and Cybersecurity focus).  
 🔍 I’m passionate about **AI, ML, Full Stack and I love to build solutions that merge these domains.  
 📍 Based in India, with a goal to work in Japan and build next-gen AI/ML systems.  
 🧑‍💻 Some of my projects:  
@@ -95,16 +95,16 @@ AI / ML · Japanese (JLPT N5 level writing)
 
 ## 📊 GitHub Stats
 
-![Ashwin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=<your-username>&layout=compact&theme=radical)
+![Ashwin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-kumar216&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ash-kumar216&layout=compact&theme=radical)
 
 ---
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [linkedin.com/in/<your-profile>](https://linkedin.com/in/<your-profile>)  
-- Email: your-email@example.com  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle) (optional)  
+- LinkedIn: [linkedin.com/in/<your-profile>](https://www.linkedin.com/in/ashwin-kumar-a96979249/)  
+- Email: your-iashwinkum@gmail.com  
+- Twitter: [@yourhandle](https://x.com/AshwinK60197298?t=gkBNR4_iBZ7dmJ8pW52ARQ&s=09)  
 
 ---
 
@@ -113,9 +113,3 @@ When I’m not coding or studying Japanese (prepping for JLPT N4), I’m probabl
 
 > “Stay curious, code with purpose.”
 
----
-
-Feel free to **copy this into your `.github/README.md` file** in your GitHub profile repo (create a repo with the same name as your GitHub username).  
-
-If you’d like, I can also **suggest badge codes + icons** for your skills section (to make it visually richer). Would you like that?
-::contentReference[oaicite:0]{index=0}
