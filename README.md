@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Ash-kumar216/Ash-kumar216/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
@@ -88,13 +88,6 @@ AI / ML · Japanese (JLPT N5 level writing)
 | **Train Booking System (Upcoming)** | Next.js UI, backend with login/logout, data management, ticket-confirmation flow (no real payment) + high-quality UI design |
 
 *And many more repositories are available on my GitHub — feel free to explore!*
-
----
-
-## 📊 GitHub Stats
-
-![Ashwin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-kumar216&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ash-kumar216&layout=compact&theme=radical)
 
 ---
 
