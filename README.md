@@ -2,7 +2,7 @@
   README for github.com/<your-username>  
   Replace placeholders where needed  
 -->
-<h2 align="left">Hi 👋! My name is Ashwin Kumar and I'm a Student, from Chennai Institute Of Technology </h2>
+<h2 align="left">Hi 👋! I'm Ashwin Kumar, a Full Stack and Data Engineer passionate about building end-to-end applications, data platforms, and automation solutions. </h2>
 
 ###
 
@@ -46,11 +46,11 @@
 
 <br clear="both">
 
-<img src="https://github.com/Ash-kumar216/Ash-kumar216/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Ash-kumar216/Ash-kumar216/blob/main/github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
-🎓 I’m currently pursuing **B.E in Computer Science Engineering** at the Chennai Institute of Technology.  
+🎓 I’m currently working as Trainee Software Engineer at Unlimited Innovations India Pvt Ltd.  
 💼 I’ve interned at the Indian Space Research Organisation (ISRO) and Edunet Foundation (Data Analytics and Cybersecurity focus).  
 🔍 I’m passionate about **AI, ML, Full Stack and I love to build solutions that merge these domains.  
 📍 Based in India, with a goal to work in Japan and build next-gen AI/ML systems.  
@@ -65,14 +65,13 @@
 ## 🔧 Skills & Tech Stack
 
 ### 🧠 Programming Languages  
-Java · Python · JavaScript · SQL
+Python · JavaScript · SQL · PowerBI
 
 ### 🖥 Frameworks & Libraries  
-React · Next.js · Node.js · Express · Pandas · NumPy
+React · Node.js · Express · Pandas · NumPy · FastAPI
 
 ### 🛠 DevOps & Tools  
-Docker · Git · GitHub Actions · MySQL · Vercel
-
+Azure Devops · Git · GitHub Actions · MySQL 
 ### 🎯 Other Interests  
 AI / ML · Japanese (JLPT N5 level writing)  
 
@@ -100,7 +99,7 @@ AI / ML · Japanese (JLPT N5 level writing)
 ---
 
 ## 💡 Fun Fact  
-When I’m not coding or studying Japanese (prepping for JLPT N4), I’m probably prototyping a UI/UX concept or exploring AI in creative domains 😉  
+🌱 Currently growing branches faster than my plants.
 
 > “Stay curious, code with purpose.”
 
