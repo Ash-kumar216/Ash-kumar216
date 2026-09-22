@@ -44,7 +44,9 @@
 
 <br clear="both">
 
-<img src="https://github.com/Ash-kumar216/Ash-kumar216/blob/main/github/workflows/snake.yml" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
